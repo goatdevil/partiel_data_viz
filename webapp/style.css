@@ -1,0 +1,47 @@
+
+.title_background{
+    width: auto;
+    height: 3em;
+    background-color: black;
+}
+
+.title{
+    font-style: italic;
+    color:white;
+    text-align: center;
+    text-decoration: underline ;
+}
+
+.display_area{
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 1em;
+    text-align: center;
+    font-weight: bold;
+    font-size: 50px;
+    width: 50%;
+    height: 60%;
+    box-shadow: 2px 2px 2px 2px;
+}
+
+#counter{
+    font-weight: bolder;
+    font-size: 80px;
+}
+
+.buttons_area{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.button{
+    width: 10em;
+    margin-right: 2em;
+    font-family: 'Gruppo'
+}
+
+.lastbutton{
+    width: 10em;
+    font-family: 'Gruppo'
+}
